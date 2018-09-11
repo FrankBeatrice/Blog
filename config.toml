@@ -1,61 +1,47 @@
 BaseURL = "/"
-theme = "casper-two"
-languageCode    = "en-US"
 disqusShortname = "blog-chrisstayte"
-paginate        = 6
-#SectionPagesMenu = "main"
-
+languageCode = "en-US"
+paginate = 6
+theme = "casper-two"
+[[menu.main]]
+name = "Life"
+url = "/life"
+weight = 1
+[[menu.main]]
+name = "Design"
+url = "/design"
+weight = 2
+[[menu.main]]
+name = "News"
+url = "/news"
+weight = 3
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 4
 [params]
-  title = ""
-  subtitle = ""
-
-  cover       = "uploads/header.png"
-  description = "Kym_B's Awesome Blog"
-  metaDescription = ""
-  googleAnalytics = "UA-75993010-2"
-  customCSS = []
-  RSSLink = ""
-
-  twitterName = "chrisstayte"
-  fbName = "christstayte"
-  githubName = "chrisstayte"
-  youtubeName = "chrisstayte"
-
-  logo = ""
-  orgName = "Kym_B"
-  orgWebsite = "https://blog.chrisstayte.com"
-  orgDescription = "Kym_B"
-
-  author = "Kym_B"
-  authorAvatar = "uploads/chrisstayte_profilepic.jpg"
-  authorLocation = "New York, NY"
-  authorWebsite = "https://www.cannabiswithkymb.com/"
-  authorDescription = "Developer, Designer, Legend..."
-
-  pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
-  singleViewStyle = "casper"
-
+RSSLink = ""
+author = "Kym_B"
+authorAvatar = "uploads/chrisstayte_profilepic.jpg"
+authorDescription = "Developer, Designer, Legend..."
+authorLocation = "New York, NY"
+authorWebsite = "https://www.cannabiswithkymb.com/"
+cover = "uploads/header.png"
+customCSS = []
+description = "Kym_B's Awesome Blog"
+fbName = "christstayte"
+githubName = "chrisstayte"
+googleAnalytics = "UA-75993010-2"
+logo = ""
+metaDescription = ""
+orgDescription = "Kym_B"
+orgName = "Kym_B"
+orgWebsite = "https://blog.chrisstayte.com"
+pageNotFoundTitle = "404 - Page not found"
+singleViewStyle = "casper"
+subtitle = ""
+title = ""
+twitterName = "chrisstayte"
+youtubeName = "chrisstayte"
 [permalinks]
-  post = "/:slug/"
-
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
-
-[[menu.main]]
-  name = "Coding"
-  url = "/coding"
-  weight = 100
-
-[[menu.main]]
-  name = "Design"
-  url = "/design"
-  weight = 99
-
-[[menu.main]]
-  name = "Life"
-  url = "/life"
-  weight = 98
+post = "/:slug/"
