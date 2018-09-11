@@ -12,8 +12,8 @@ name = "Design"
 url = "/design"
 weight = 2
 [[menu.main]]
-name = "News"
-url = "/news"
+name = "Coding"
+url = "/coding"
 weight = 3
 [[menu.main]]
 name = "Home"
