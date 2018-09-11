@@ -6,7 +6,7 @@ categories: Life
 tags:
   - Consistent
   - Sorry
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/pexels-photo-221164.jpeg
 comments: true

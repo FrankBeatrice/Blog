@@ -6,7 +6,7 @@ categories: coding
 tags:
   - Netlify
   - Hugo
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/009_addingaformtonetlify.png
 comments: true

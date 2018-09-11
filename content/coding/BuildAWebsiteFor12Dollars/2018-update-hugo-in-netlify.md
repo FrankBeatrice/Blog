@@ -7,7 +7,7 @@ tags:
   - Netlify
   - Hugo
   - Update
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/008_updatinghugoinnetlify.png
 comments: true

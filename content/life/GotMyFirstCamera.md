@@ -5,7 +5,7 @@ draft: false
 image: "uploads/newcamera.jpeg"
 categories: [Photography]
 tags: [Canon, EOS M6]
-author: "Chris Stayte"
+author: "Kym_B"
 type: post
 --- 
 I am so excited today to share with you that I got a new camera...

@@ -8,7 +8,7 @@ tags:
   - Netlify
   - Github
   - Hosting
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/004_hostingasite.png
 comments: true

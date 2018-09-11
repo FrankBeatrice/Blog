@@ -6,7 +6,7 @@ categories: Coding
 tags:
   - Netlify
   - CMS
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/007_netlifycms.png
 comments: true

@@ -6,7 +6,7 @@ draft: false
 
 categories: [Code, Tutorial]
 tags: [Python, Tutorial, Strings]
-author: "Chris Stayte"
+author: "Kym_B"
 image: "uploads/python101.png"
 type: post
 ---

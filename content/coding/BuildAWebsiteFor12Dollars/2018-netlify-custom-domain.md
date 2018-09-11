@@ -6,7 +6,7 @@ categories: Coding
 tags:
   - Netlify
   - Domain
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/006_netlifycustomdomain.png
 comments: true

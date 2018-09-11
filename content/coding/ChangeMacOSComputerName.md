@@ -6,7 +6,7 @@ draft: false
 image: "uploads/nametag.jpg"
 categories: [Tutorial]
 tags: [macOS]
-author: "Chris Stayte"
+author: "Kym_B"
 noSummary: false
 type: post
 ---

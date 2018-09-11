@@ -5,7 +5,7 @@ draft: false
 categories: Goal
 tags:
   - Photography
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/photoaday.jpeg
 comments: true

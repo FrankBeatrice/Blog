@@ -6,7 +6,7 @@ categories: Coding
 tags:
   - Hugo
   - Web
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/003_buildingasiteusinghugo.png
 comments: true

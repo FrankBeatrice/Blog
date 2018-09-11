@@ -5,7 +5,7 @@ draft: false
 categories: Life
 tags:
   - How To
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/episode_005.png
 comments: true

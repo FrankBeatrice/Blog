@@ -6,7 +6,7 @@ categories: Code
 tags:
   - Domain
   - Purchase
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/005_purchasingadomain.png
 comments: true

@@ -6,7 +6,7 @@ categories: Code
 tags:
   - .Net
   - Click Once
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 comments: true
 share: true

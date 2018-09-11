@@ -6,7 +6,7 @@ categories: Podcast
 tags:
   - Phone
   - Notification
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/youngmangame.png
 comments: true

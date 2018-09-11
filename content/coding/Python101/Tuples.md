@@ -6,7 +6,7 @@ draft: true
 image: "uploads/python101.png"
 categories: [Code, Tutorial]
 tags: [Python, Tutorial, Tuples]
-author: "Chris Stayte"
+author: "Kym_B"
 
 # Set your video id for
 type: post

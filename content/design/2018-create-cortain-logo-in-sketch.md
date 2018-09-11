@@ -7,7 +7,7 @@ tags:
   - Sketch
   - Cortain
   - Logo
-author: Chris Stayte
+author: Kym_B
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/createcortainlogowithsketch.png
 comments: true

@@ -14,4 +14,4 @@ type: post
 
 <br/>
 
-The world is filled with people glued to something other than the here and now. Listen to `Trevor Curtis` and `Chris Stayte` talk about this and ways to combat it.
+The world is filled with people glued to something other than the here and now. Listen to `Trevor Curtis` and `Kym_B` talk about this and ways to combat it.
