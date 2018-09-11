@@ -1,4 +1,4 @@
-BaseURL = "https://blog.chrisstayte.com/"
+BaseURL = "h/"
 theme = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "blog-chrisstayte"
@@ -10,7 +10,7 @@ paginate        = 6
   subtitle = ""
 
   cover       = "uploads/header.png"
-  description = "Chris Stayte's Awesome Blog"
+  description = "Kym_B's Awesome Blog"
   metaDescription = ""
   googleAnalytics = "UA-75993010-2"
   customCSS = []
@@ -22,11 +22,11 @@ paginate        = 6
   youtubeName = "chrisstayte"
 
   logo = ""
-  orgName = "Chris Stayte"
+  orgName = "Kym_B"
   orgWebsite = "https://blog.chrisstayte.com"
-  orgDescription = "Chris Stayte"
+  orgDescription = "Kym_B"
 
-  author = "Chris Stayte"
+  author = "Kym_B"
   authorAvatar = "uploads/chrisstayte_profilepic.jpg"
   authorLocation = "Dayton, OH"
   authorWebsite = "https://chrisstayte.com"
