@@ -1,7 +1,7 @@
 ---
 title: Mynamesis
 date: '2018-09-11'
-draft: true
+draft: false
 categories: Darling
 tags:
   - Cannabis
