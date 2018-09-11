@@ -1,4 +1,4 @@
-BaseURL = "https://blog.chrisstayte.com/"
+BaseURL = ""
 theme = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "blog-chrisstayte"
@@ -10,7 +10,7 @@ paginate        = 6
   subtitle = ""
 
   cover       = "uploads/header.png"
-  description = "Chris Stayte's Awesome Blog"
+  description = ""
   metaDescription = ""
   googleAnalytics = "UA-75993010-2"
   customCSS = []
@@ -23,14 +23,14 @@ paginate        = 6
 
   logo = ""
   orgName = "Chris Stayte"
-  orgWebsite = "https://blog.chrisstayte.com"
+  orgWebsite = ""
   orgDescription = "Chris Stayte"
 
   author = "Chris Stayte"
   authorAvatar = "uploads/chrisstayte_profilepic.jpg"
   authorLocation = "Dayton, OH"
-  authorWebsite = "https://chrisstayte.com"
-  authorDescription = "Developer, Designer, Legend..."
+  authorWebsite = ""
+  authorDescription = "Entreprenur, Cannabis Mogul, Local Legend..."
 
   pageNotFoundTitle = "404 - Page not found"
 
