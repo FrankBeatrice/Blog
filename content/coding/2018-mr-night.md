@@ -1,14 +1,16 @@
 ---
 title: Mr.Night
-date: 2018-09-11 00:00:00 +0000
+date: '2018-09-11 00:00:00 +0000'
+draft: true
 categories: CaddyShack
+tags:
+  - Opera
 author: Mr.Night
 authorImage: uploads/chrisstayte_profilepic.jpg
-image: "/uploads/mr_night.png"
+image: /uploads/mr_night.png
 comments: true
 share: true
 type: post
-
 ---
 ![](/uploads/episode_005.png)<br></br>  
   
