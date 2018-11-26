@@ -42,7 +42,5 @@ pageNotFoundTitle = "404 - Page not found"
 singleViewStyle = "casper"
 subtitle = ""
 title = ""
-twitterName = "chrisstayte"
-youtubeName = "chrisstayte"
 [permalinks]
 post = "/:slug/"
