@@ -45,8 +45,8 @@ theme = "casper-two"
 	url = "/featured"
 	weight = 14
 [[menu.main]]
-	name = "Articles"
-	url = "/articles"
+	name = "Article"
+	url = "/article"
 	weight = 15
 [[menu.main]]
 	name = "Subscribe"
