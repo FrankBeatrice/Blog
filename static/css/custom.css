@@ -271,3 +271,33 @@ LEVEL 3. MOBILE ANIMATION STYLES
 .hamburger__label{
   transition-property: transform, opacity;
 }
+
+.social-link {
+  display: inline-block !important;
+  margin-left: 10px;
+}
+
+.social-link svg {
+  height: 3rem !important;
+}
+
+.site-header {
+  background-color: rgba(255,255,255, 1);
+}
+
+
+.progress::-webkit-progress-value{
+  background-color:#01FB2F !important
+}
+
+.post-card-excerpt p:hover {
+  color: #cbeafb;
+}
+
+@media (max-width: 650px){
+  .site-footer-content {
+      -ms-flex-direction: column;
+      flex-direction: column;
+      margin-bottom: 30px;
+  }
+}
