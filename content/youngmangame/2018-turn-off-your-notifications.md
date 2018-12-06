@@ -7,7 +7,7 @@ tags:
   - Phone
   - Notification
 author: Sponsored
-authorImage: /uploads/eos_m6_me.jpg
+authorImage: /uploads/authors/Author_Sponsored.png
 image: /uploads/youngmangame.png
 comments: true
 share: true

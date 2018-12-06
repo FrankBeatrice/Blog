@@ -6,7 +6,7 @@ categories: Jake The Snake
 tags:
   - Birthday
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 image: /uploads/dog_birthday.jpeg
 comments: true
 share: true

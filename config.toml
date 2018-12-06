@@ -45,7 +45,7 @@ theme = "casper-two"
 	url = "/featured"
 	weight = 14
 [[menu.main]]
-	name = "Article"
+	name = "Articles"
 	url = "/article"
 	weight = 15
 [[menu.main]]
@@ -53,33 +53,18 @@ theme = "casper-two"
 	url = "/subscribe"
 	weight = 16
 [[menu.main]]
-	name = "Life"
-	url = "/life"
-	weight = 17
-[[menu.main]]
-	name = "Design"
-	url = "/design"
-	weight = 18
-[[menu.main]]
-	name = "Coding"
-	url = "/coding"
-	weight = 19
-[[menu.main]]
 	name = "Home"
 	url = "/"
 	weight = 20
 
-
-
 [params]
 	RSSLink = ""
 	author = "Kym_B"
-	authorAvatar = "uploads/Author_KymByrnes.jpg"
+	authorAvatar = "/uploads/authors/Author_KymByrnes.jpg"
 	authorDescription = "Developer, Designer, Legend..."
 	authorLocation = "New York, NY"
 	authorWebsite = "https://www.cannabiswithkymb.com/"
-	cover = "uploads/header.png"
-	customCSS = []
+	cover = "uploads/main_background.jpg"
 	description = "Kym_B's Awesome Blog"
 	twitterName = "cannabiswithkym"
 	fbName = "Cannabis-with-KymB-158958404674460"

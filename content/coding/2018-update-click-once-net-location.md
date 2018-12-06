@@ -7,7 +7,7 @@ tags:
   - .Net
   - Click Once
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 comments: true
 share: true
 type: post

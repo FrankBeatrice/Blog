@@ -7,7 +7,7 @@ tags:
   - Netlify
   - CMS
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 image: /uploads/007_netlifycms.png
 comments: true
 share: true

@@ -7,7 +7,7 @@ tags:
   - Podcasting
   - How To
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 image: /uploads/youngmangame.png
 comments: true
 share: true

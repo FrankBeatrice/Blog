@@ -8,7 +8,7 @@ tags:
   - Hugo
   - Update
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 image: /uploads/008_updatinghugoinnetlify.png
 comments: true
 share: true

@@ -7,7 +7,7 @@ tags:
   - Hugo
   - Web
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 image: /uploads/003_buildingasiteusinghugo.png
 comments: true
 share: true

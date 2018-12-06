@@ -7,7 +7,7 @@ tags:
   - Coder.com
   - Hugo
 author: Lacey_Jaye
-authorImage: /uploads/Author_KymByrnes.jpg
+authorImage: /uploads/authors/AuthorLacyJae.png
 image: /uploads/usingcoderwithhugo.png
 comments: true
 share: true

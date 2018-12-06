@@ -9,7 +9,7 @@ tags:
   - Github
   - Hosting
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 image: /uploads/004_hostingasite.png
 comments: true
 share: true

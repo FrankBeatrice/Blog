@@ -7,7 +7,7 @@ tags:
   - Consistent
   - Sorry
 author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+authorImage: /uploads/authors/Author_KymByrnes.jpg
 image: /uploads/pexels-photo-221164.jpeg
 comments: true
 share: true
