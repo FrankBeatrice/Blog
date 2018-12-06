@@ -74,7 +74,7 @@ theme = "casper-two"
 [params]
 	RSSLink = ""
 	author = "Kym_B"
-	authorAvatar = "uploads/chrisstayte_profilepic.jpg"
+	authorAvatar = "uploads/Author_KymByrnes.jpg"
 	authorDescription = "Developer, Designer, Legend..."
 	authorLocation = "New York, NY"
 	authorWebsite = "https://www.cannabiswithkymb.com/"
@@ -97,3 +97,4 @@ theme = "casper-two"
 
 [permalinks]
 	post = "/:slug/"
+
