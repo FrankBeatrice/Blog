@@ -4,7 +4,6 @@ authorImage = "uploads/chrisstayte_profilepic.jpg"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
-draft = true
 share = true
 title = "Tribe Tokes"
 type = "post"
@@ -22,7 +21,7 @@ MINDFUL, FIT AND LIT 
 
 ![](/uploads/tribetokes.jpg)
 
-                                **Featured Product**
+  **Featured Product**
 
 ![](/uploads/whitevapepen.jpg)![](/uploads/closedwhitekit.jpg)
 
