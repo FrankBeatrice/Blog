@@ -10,41 +10,22 @@ title = "Honeysuckle Magazine"
 type = "post"
 
 +++
-![](/uploads/Frame.jpeg)
+![](/uploads/honeysuckle logo.png)
 
- **PussyWeed™ is an apparel, accessories and media company aiming to de-stigmatize women in cannabis as well as advocate for the end to the war on drugs.** 
+HONEYSUCKLE is a print and digital magazine that emphasizes diverse voices, personal testimony, and visual impact. Each quarter, our print edition explores a topical issue through a range of perspectives. Our boots-on-the-ground reporting combines input from thoughtful observers, high-profile celebrities, and personal testimony. Our cross-generational audience is open, inclusive, and curious, united by their shared passion for knowledge and desire to dive deep into themes that are important.
 
-**It all began in the summer of 2016 as a group of friends who found empowerment in a space which freely allowed us to experience cannabis as wellness. Feeling distanced from media portrayals and real-life manifestations of cannabis culture, especially regarding femmes, we found that in our feminine setting we were able to ask any question, tell any story, and share & learn any information without fear or insecurity. We called it PussyWeed, we got t-shirts, and we’ve been growing the space ever since.** 
+In the most recent issue of Honeysuckle, our very own KymB has a published piece. Read a quick excerpt here and click the link to read more! 
 
-**Behind each of our product lies our message to burn the stigma and create space for marginalized voices in cannabis.**   
+[https://www.janewest.com/meet-jane/](https://www.janewest.com/meet-jane/ "https://www.janewest.com/meet-jane/") 
 
-![](/uploads/The Jar by Natasha Przedborski.jpg)
+“_Jane West, the badass canna-mom and entrepreneur,_  
 
-We manifest what we have learned: 
-
-1. Cannabis is a wellness herb. 
-
-
-2. The criminalization of cannabis is a direct assault on American life and we need thoughtful cannabis reform now. 
-
-
-3. The key element of cannabis reform must be to rectify the colossal damage done to people and communities of color due to cannabis-related discrimination and criminalization. 
-
-
-4. Femininity must no longer be synonymous with a sex or gender, but instead as a vital part of universal balance. 
-
-
-5. The word “pussy” must no longer be used to associate femmes, women, genitalia, and perceived femininity with fear, shame, nonconsensual sexualization, and a general stigma. 
-
-
-6. We celebrate and respect cannabis as a connector, a healer, and a right to us all. 
+_answers my call while smoking a joint and drinking CBD coffee on her porch. West is a true OG cannabis activist who was hosting infused dinner parties well before they were being written about in_ Vogue_. In 2014, she founded_ [_Women Grow_](https://womengrow.com/)_, the largest professional networking organization for women in the cannabis business, and more recently, she launched her lifestyle brand, Jane West, which features glassware, accessories, and a new CBD collection. She made history again this year as one of the first CEOs in the cannabis space to raise equity crowdfunding capital_ [_through the Republic platform_](https://republic.co/jane-west) _(with 80% held by women and people of color). And even though West has been in the business for a while, it’s clear she’s just getting started. Here, we talk cannabis, gender parity, market innovation, and more.”_ 
 
  
 
-[https://pussyweed.org/](https://pussyweed.org/ "https://pussyweed.org/") 
+![](/uploads/honeysuckleOnecover.jpeg) 
 
- ![](/uploads/The Hannah Tote (Photo by Natasha Przedborski).jpg)
+ 
 
-Be sure to check out PussyWeed online and follow them on Instagram! They have an awesome assortment of apparel and smoking accessories, and they’re working on spreading the love and the word of a good cause. Spark a conversation by adding their unique pieces to your every-day essentials! 
-
-![](/uploads/The Grinder2 (Photo by Natasha Przedborski).jpg)
+You can find Honeysuckle Magazine online and in stores and on newsstands nationwide. 
