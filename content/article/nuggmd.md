@@ -10,38 +10,28 @@ title = "NuggMD"
 type = "post"
 
 +++
-![](/uploads/cannagatherlogo.png)
+![](/uploads/nuggMd.jpg)
 
-CannaGather is the largest cannabis industry community in New York. Join us for a lecture style event with amazing speakers plus a great networking community. No cannabis consumption is allowed at our events, due to New York State law...we hope this will change!
+About NuggMD 
 
->   
-> Upcoming CannaGather Events
+NuggMD is the fastest, easiest, and most secure way to get your medical marijuana recommendation and card, granting you instant access to the California cannabis industry. 
 
-Columbia, the future of Canna-Agriculture
+We believe pioneering a new era in cannabis means brandishing new behaviors and attitudes, ones that expose misinformation and uncover truths. 
 
-December 11th, 2018 7:00pm– 9:00pm
+It's our mission to reveal cannabis for what it really is by facilitating easier access to it and empowering consumers with reliable information, personalized support and attention, and a conviction that puts your needs at the highest level.  
 
-Galvanize
+Over 25,000 California patients have trusted us to guide them on their cannabis journey.  
 
-303 Spring Street
+_We're ready when you are._ 
 
-New York, NY 10013
+![](/uploads/IMG-8183.JPG)
 
-**CannaGather** is the largest cannabis industry community in New York. Join us for a lecture style event with amazing speakers plus a great networking community. No cannabis consumption is allowed at our events, due to New York State law...we hope this will change!
+[http://kymb.nuggmd.com/](http://kymb.nuggmd.com/ "http://kymb.nuggmd.com/") 
 
-This month's guest speaker:
+Get Your Medical Marijuana Recommendation Online 
 
-![](/uploads/e6f.Kyle_Detwiler-Marial-Pierce.jpg)Kyle Detwiler
+Want to become a legal medical marijuana patient? Video chat with a doctor and get your recommendation today. Our doctors are super friendly and the entire process takes less than 10 minutes! 
 
-Co-founder & CEO, Northern Swan
+What are you waiting for? 
 
-Northern Swan is an opportunistic, New York-based investment firm focused on early and late-stage investments in cannabis and cannabis-related companies. We pursue opportunities globally. Northern Swan's investment professionals have collectively invested in excess of $3 billion of capital at Blackstone, KKR, and Och-Ziff prior to founding Northern Swan.
-
-Prior to co-founding Northern Swan in August of 2017, Mr. Detwiler co-founded Silver Swan LLC- an investment firm focused in several niche and underfollowed sectors. Mr. Detwiler was a Principal at The Blackstone Group, a leading alternative investment manager with $344 billion of assets under management.  As an early member of the Tactical Opportunities Fund, Mr. Detwiler was involved in the management or served as a board member in 7 investments with roughly $1 billion of Blackstone capital, including LocusPoint Networks (television broadcasting and spectrum), Phoenix Tower International (wireless towers in the US and Latin America), Wireless Capital Partners (real estate attached to wireless towers), Philadelphia Financial Group (insurance), One Market Plaza (commercial real estate) and a residential real estate platform in New York City.
-
-  
-Previously, Mr. Detwiler was a member of the private equity practice at Kohlberg, Kravis, Roberts & Co. (“KKR”), focusing on transactions in the oil & gas, energy, natural resource and health care sectors.  He began his career as an investment banker at Morgan Stanley.
-
-Mr. Detwiler graduated with distinction from Harvard Business School and cum laude from Princeton University.
-
-![](/uploads/cannagather1.jpeg)
+ 
