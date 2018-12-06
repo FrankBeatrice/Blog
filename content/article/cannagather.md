@@ -10,41 +10,38 @@ title = "CannaGather"
 type = "post"
 
 +++
-![](/uploads/Frame.jpeg)
+![](/uploads/cannagatherlogo.png)
 
- **PussyWeed™ is an apparel, accessories and media company aiming to de-stigmatize women in cannabis as well as advocate for the end to the war on drugs.** 
+CannaGather is the largest cannabis industry community in New York. Join us for a lecture style event with amazing speakers plus a great networking community. No cannabis consumption is allowed at our events, due to New York State law...we hope this will change!
 
-**It all began in the summer of 2016 as a group of friends who found empowerment in a space which freely allowed us to experience cannabis as wellness. Feeling distanced from media portrayals and real-life manifestations of cannabis culture, especially regarding femmes, we found that in our feminine setting we were able to ask any question, tell any story, and share & learn any information without fear or insecurity. We called it PussyWeed, we got t-shirts, and we’ve been growing the space ever since.** 
+>   
+> Upcoming CannaGather Events
 
-**Behind each of our product lies our message to burn the stigma and create space for marginalized voices in cannabis.**   
+Columbia, the future of Canna-Agriculture
 
-![](/uploads/The Jar by Natasha Przedborski.jpg)
+December 11th, 2018 7:00pm– 9:00pm
 
-We manifest what we have learned: 
+Galvanize
 
-1. Cannabis is a wellness herb. 
+303 Spring Street
 
+New York, NY 10013
 
-2. The criminalization of cannabis is a direct assault on American life and we need thoughtful cannabis reform now. 
+**CannaGather** is the largest cannabis industry community in New York. Join us for a lecture style event with amazing speakers plus a great networking community. No cannabis consumption is allowed at our events, due to New York State law...we hope this will change!
 
+This month's guest speaker:
 
-3. The key element of cannabis reform must be to rectify the colossal damage done to people and communities of color due to cannabis-related discrimination and criminalization. 
+![](/uploads/e6f.Kyle_Detwiler-Marial-Pierce.jpg)Kyle Detwiler
 
+Co-founder & CEO, Northern Swan
 
-4. Femininity must no longer be synonymous with a sex or gender, but instead as a vital part of universal balance. 
+Northern Swan is an opportunistic, New York-based investment firm focused on early and late-stage investments in cannabis and cannabis-related companies. We pursue opportunities globally. Northern Swan's investment professionals have collectively invested in excess of $3 billion of capital at Blackstone, KKR, and Och-Ziff prior to founding Northern Swan.
 
+Prior to co-founding Northern Swan in August of 2017, Mr. Detwiler co-founded Silver Swan LLC- an investment firm focused in several niche and underfollowed sectors. Mr. Detwiler was a Principal at The Blackstone Group, a leading alternative investment manager with $344 billion of assets under management.  As an early member of the Tactical Opportunities Fund, Mr. Detwiler was involved in the management or served as a board member in 7 investments with roughly $1 billion of Blackstone capital, including LocusPoint Networks (television broadcasting and spectrum), Phoenix Tower International (wireless towers in the US and Latin America), Wireless Capital Partners (real estate attached to wireless towers), Philadelphia Financial Group (insurance), One Market Plaza (commercial real estate) and a residential real estate platform in New York City.
 
-5. The word “pussy” must no longer be used to associate femmes, women, genitalia, and perceived femininity with fear, shame, nonconsensual sexualization, and a general stigma. 
+  
+Previously, Mr. Detwiler was a member of the private equity practice at Kohlberg, Kravis, Roberts & Co. (“KKR”), focusing on transactions in the oil & gas, energy, natural resource and health care sectors.  He began his career as an investment banker at Morgan Stanley.
 
+Mr. Detwiler graduated with distinction from Harvard Business School and cum laude from Princeton University.
 
-6. We celebrate and respect cannabis as a connector, a healer, and a right to us all. 
-
- 
-
-[https://pussyweed.org/](https://pussyweed.org/ "https://pussyweed.org/") 
-
- ![](/uploads/The Hannah Tote (Photo by Natasha Przedborski).jpg)
-
-Be sure to check out PussyWeed online and follow them on Instagram! They have an awesome assortment of apparel and smoking accessories, and they’re working on spreading the love and the word of a good cause. Spark a conversation by adding their unique pieces to your every-day essentials! 
-
-![](/uploads/The Grinder2 (Photo by Natasha Przedborski).jpg)
+![](/uploads/cannagather1.jpeg)
