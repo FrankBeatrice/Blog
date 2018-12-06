@@ -23,7 +23,6 @@
         <img class="author-profile-image" src="{{ (.Params.authorAvatar | default .Site.Params.authorAvatar) | absURL}}" alt="Author" />
         <section class="author-card-content">
             <h4 class="author-card-name"><a href="/authors/{{ lower .Params.author}}/">{{.Params.author}}</a></h4>
-                <p>{{.Params.authorDescription | default .Site.Params.authorDescription}}</p>
         </section>
       </section>
     </footer>
