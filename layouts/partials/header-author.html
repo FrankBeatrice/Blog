@@ -13,7 +13,7 @@
                 {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
              {{ end }}
           {{ end }}
-          <span class="post-num">•{{ .Scratch.Get "counter"}} posts</span>
+          <span class="post-num">•   {{ .Scratch.Get "counter"}} posts</span>
           <span><ul class="social-icons">•
               {{ if .Site.Params.fbName }}<a class="social-link social-link-fb" href="https://www.facebook.com/{{ .Site.Params.fbName }}" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg></a>{{end}}
                   
