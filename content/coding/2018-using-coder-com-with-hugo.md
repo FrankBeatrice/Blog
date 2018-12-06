@@ -6,8 +6,8 @@ categories: Coding
 tags:
   - Coder.com
   - Hugo
-author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+author: Lacey_Jaye
+authorImage: /uploads/Author_KymByrnes.jpg
 image: /uploads/usingcoderwithhugo.png
 comments: true
 share: true

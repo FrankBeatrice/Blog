@@ -48,23 +48,6 @@
   </div>
 </main>
 
-{{if eq .Site.Params.singleViewStyle "casper"}}
-<aside class="read-next outer">
-  <div class="inner">
-    <div class="read-next-feed">      
-      {{ partial "readnext-random-sori" . }}
-      {{with .NextInSection}}
-      {{ partial "readnext-article-sori" . }}
-      {{end}}
-      {{with .PrevInSection}}
-      {{ partial "readnext-article-sori" . }}
-      {{end}}
-    </div>
-  </div>
-</aside>
-
-{{ partial "header-floating-sori" . }}
-{{end}}
 
 {{ partial "footer" . }}
 </div>

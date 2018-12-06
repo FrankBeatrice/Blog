@@ -6,8 +6,8 @@ categories: Podcast
 tags:
   - Phone
   - Notification
-author: Kym_B
-authorImage: uploads/chrisstayte_profilepic.jpg
+author: Sponsored
+authorImage: /uploads/eos_m6_me.jpg
 image: /uploads/youngmangame.png
 comments: true
 share: true
