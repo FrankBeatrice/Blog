@@ -10,22 +10,21 @@ title = "Bad Girl, Good Health"
 type = "post"
 
 +++
-![](/uploads/CannapopuplogowithBest.png)
 
-The best way to describe the Canna Pop-Up event is one-part social event, one-part education, one-part foodie, one-part art exhibit, and ALL parts for anyone with an open mind. Pop-up experiences last for only a brief period of time. They are transitory and as a result, exciting and compelling. 
+![](/uploads/badgirlgoodhealth.PNG)
 
-The Canna Pop-Up experience will elevate your senses to a higher level. We bring people together to learn about cannabis for health, wellness, self-care, and caregiving. Our pop-up events will exhibit what tasteful, responsible adult use could look and feel like. 
+**Bad Girl Good Health** 
 
-The cannabis industry has made remarkable strides and it’s our desire to help shape the cannabis landscape in the NJ/NY area and create buzz and excitement about medical and adult-use. Until then, we have a very powerful supplement, Cannabidiol (CBD), a cannabis extract legal in all 50 states and is proven to have calming and stress-relieving effects, among other positive health benefits for a variety of medical and social conditions. 
+**With over twenty years in the fitness industry, you can catch Kym living her best life and helping others to do the same as a Pilates instructor at Equinox! Offering Pilates Power, Monday mornings at Equinox Gym.** 
 
-[https://cannapopup.com/](https://cannapopup.com/ "https://cannapopup.com/") 
+**Kym is also Workout Street Fashion Ambassador for lululemon.**  
 
-![](/uploads/Holli-Robert-Backyard-party.jpg)
+**Mindful, fit and lit!** 
 
-Robert Allen & Holli Ehrlich 
+[https://www.equinox.com/groupfitness/7125618](https://www.equinox.com/groupfitness/7125618 "https://www.equinox.com/groupfitness/7125618") 
 
-Co-founders Robert Allen & Holli Ehrlich are a dynamic husband-wife team who have a passion for planning and producing events like no other. 
+**You can follow Kym’s fitness journey on Instagram @badgirlgoodhealth** 
 
-Check out their live podcasts and blog for more information! Holli and Robert are such a delight and always a joy to listen to! They offer information in a way that is as fun and relative as it is entertaining! Their passion for all things cannabis is contagious!
+**Check out lululemon** 
 
-![](/uploads/cannapopupLogo.jpg)
+[https://shop.lululemon.com/?CID=Google_All_PPC%2BBrand_US&gclid=CjwKCAiA5qTfBRAoEiwAwQy-6bHgOVpA3o_IZGC4fqaeYJ3W-F5RuyhWXW4fGHfETJ4BCszMFiCWQxoCzyEQAvD_BwE&gclsrc=aw.ds](https://www.equinox.com/groupfitness/7125618 "https://www.equinox.com/groupfitness/7125618")
