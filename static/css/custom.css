@@ -314,6 +314,7 @@ LEVEL 3. MOBILE ANIMATION STYLES
 .author-info {
   display: flex;
   font-style: italic;
+  z-index: 10;
 }
 .author-info .author-ad {
   padding-right: 10px;
