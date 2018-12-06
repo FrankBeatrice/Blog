@@ -10,28 +10,30 @@ title = "Tribe Tokes"
 type = "post"
 
 +++
-![](/uploads/nuggMd.jpg)
+![](/uploads/tribetokeslogo.png)
 
-About NuggMD 
+_ABOUT TRIBETOKES_ 
 
-NuggMD is the fastest, easiest, and most secure way to get your medical marijuana recommendation and card, granting you instant access to the California cannabis industry. 
+TribeTokes creates and distributes merchandise with an elevated aesthetic for the next generation cannabis consumer - who respects plant science, consumes mindfully and expects top quality products from trusted brands. We are dedicated to elevating the acceptance & aesthetics of the industry and celebrating its thriving community. 
 
-We believe pioneering a new era in cannabis means brandishing new behaviors and attitudes, ones that expose misinformation and uncover truths. 
+MINDFUL, FIT AND LIT 
 
-It's our mission to reveal cannabis for what it really is by facilitating easier access to it and empowering consumers with reliable information, personalized support and attention, and a conviction that puts your needs at the highest level.  
+[https://www.tribetokes.com/](https://www.tribetokes.com/ "https://www.tribetokes.com/") 
 
-Over 25,000 California patients have trusted us to guide them on their cannabis journey.  
+![](/uploads/tribetokes.jpg)
 
-_We're ready when you are._ 
+                                **Featured Product**
 
-![](/uploads/IMG-8183.JPG)
+![](/uploads/whitevapepen.jpg)![](/uploads/closedwhitekit.jpg)
 
-[http://kymb.nuggmd.com/](http://kymb.nuggmd.com/ "http://kymb.nuggmd.com/") 
+ 
 
-Get Your Medical Marijuana Recommendation Online 
+[https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread "https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread")
 
-Want to become a legal medical marijuana patient? Video chat with a doctor and get your recommendation today. Our doctors are super friendly and the entire process takes less than 10 minutes! 
+**WHY WE LOVE IT** 
 
-What are you waiting for? 
+Wait no longer! Our classy and sophisticated all white vape pen is here, and ready to blow a customized cloud just for you. This sleek pen lets you choose your own adventure with an adjustable voltage infinity wheel on the bottom. The beautiful magnet box packaging also provides free, stylish storage. Did we mention - this thing is like the Kindle of weed, you charge it once and it lasts forever. 
+
+ 
 
  
