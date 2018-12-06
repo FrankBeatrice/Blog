@@ -6,20 +6,45 @@ comments = true
 date = "2018-08-17T13:52:07.411+00:00"
 draft = true
 share = true
-title = "Flower Power Coffee-(copy)"
+title = "PussyWeed"
 type = "post"
 
 +++
-![](/uploads/flower power logo.jpeg)
+![](/uploads/Frame.jpeg)
 
-Hippies at heart We are “modern day hippies “. Our mission is to provide coffees and edibles that will enhance the life experience of health-conscious consumers through the use of legal, non-mind-altering infusions. We value the importance of giving back to the community, creating new jobs within Flower Power and our affiliations/partners, supporting worthy non-profits, and fundraising to benefit the community. We believe in the value of friendship, education and working with companies who have great products and/or with whom we can collaboratively develop innovative products.
+ **PussyWeed™ is an apparel, accessories and media company aiming to de-stigmatize women in cannabis as well as advocate for the end to the war on drugs.** 
 
-![](/uploads/Flower_Power_coffee_CBD_Today.jpg)
+**It all began in the summer of 2016 as a group of friends who found empowerment in a space which freely allowed us to experience cannabis as wellness. Feeling distanced from media portrayals and real-life manifestations of cannabis culture, especially regarding femmes, we found that in our feminine setting we were able to ask any question, tell any story, and share & learn any information without fear or insecurity. We called it PussyWeed, we got t-shirts, and we’ve been growing the space ever since.** 
 
-Coming SOON!!!
+**Behind each of our product lies our message to burn the stigma and create space for marginalized voices in cannabis.**   
 
-![](/uploads/wakeandbake.JPG)
+![](/uploads/The Jar by Natasha Przedborski.jpg)
 
-A sophisticated Coffee grown in the Blue Mountain District of Jamaica, Jamaica Blue Mountain is a wet processed (washed) coffee that is silky smooth and well-balanced, with an excellent full body, a classic and refined mild taste with a slightly and unusually sweet flavor that is very rich — and sometimes almost creamy.
+We manifest what we have learned: 
 
-![](/uploads/Screenshot 2018-12-06 12.05.19.png)
+1. Cannabis is a wellness herb. 
+
+
+2. The criminalization of cannabis is a direct assault on American life and we need thoughtful cannabis reform now. 
+
+
+3. The key element of cannabis reform must be to rectify the colossal damage done to people and communities of color due to cannabis-related discrimination and criminalization. 
+
+
+4. Femininity must no longer be synonymous with a sex or gender, but instead as a vital part of universal balance. 
+
+
+5. The word “pussy” must no longer be used to associate femmes, women, genitalia, and perceived femininity with fear, shame, nonconsensual sexualization, and a general stigma. 
+
+
+6. We celebrate and respect cannabis as a connector, a healer, and a right to us all. 
+
+ 
+
+[https://pussyweed.org/](https://pussyweed.org/ "https://pussyweed.org/") 
+
+ ![](/uploads/The Hannah Tote (Photo by Natasha Przedborski).jpg)
+
+Be sure to check out PussyWeed online and follow them on Instagram! They have an awesome assortment of apparel and smoking accessories, and they’re working on spreading the love and the word of a good cause. Spark a conversation by adding their unique pieces to your every-day essentials! 
+
+![](/uploads/The Grinder2 (Photo by Natasha Przedborski).jpg)
