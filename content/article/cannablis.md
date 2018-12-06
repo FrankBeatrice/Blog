@@ -10,30 +10,42 @@ title = "CannaBlis"
 type = "post"
 
 +++
-![](/uploads/tribetokeslogo.png)
+![](/uploads/CannaBLISWKymB_Logo_160x160@2x.jpg)
 
-_ABOUT TRIBETOKES_ 
+CBD lifestyle brand Tribe Tokes kicks off its entry into beauty with a natural CBD eye cream from Kym B 
 
-TribeTokes creates and distributes merchandise with an elevated aesthetic for the next generation cannabis consumer - who respects plant science, consumes mindfully and expects top quality products from trusted brands. We are dedicated to elevating the acceptance & aesthetics of the industry and celebrating its thriving community. 
+It’s Here! A CBD eye cream from a girl who knows cannabis. Tribe Tokes own director of operations, Kymberly “KymB” Byrnes, a cannabis advocate, influencer and all-around girl boss is behind a natural CBD line, Cannablis By KymB Beauty. With so much knowledge and passion for cannabis, Kim, a certified Pilates instructor & self-proclaimed “green juice junkie” vegetarian knew she had to explore good natural ingredients that would work well with CBD. Her active lifestyle made the quest for a really good CBD eye cream a mission that many will be glad she undertook.  Her line’s debut product, Cannablis By KymB. CBD Eye Cream is the result. It is a soothing and hydrating blend of shea and cocoa butter, arnica & birch extracts, aloe, avocado oil, sunflower seed oil, beeswax. 
 
-MINDFUL, FIT AND LIT 
+It’s all natural. With no: 
 
-[https://www.tribetokes.com/](https://www.tribetokes.com/ "https://www.tribetokes.com/") 
+• parabens, 
 
-![](/uploads/tribetokes.jpg)
+• sulfates, 
 
-  **Featured Product**
+• chemicals or fragrance 
 
-![](/uploads/whitevapepen.jpg)![](/uploads/closedwhitekit.jpg)
+All this combined with the renewing*, anti-inflammatory properties* of Cannabidiol (CBD) Isolate, make for one powerful eye cream for long nights or early mornings.
 
- 
+![](/uploads/EyeCream6_4x6forweb.jpg)![](/uploads/eyecream_sidebyside.jpg)![](/uploads/KIMB_EYECREAM SWATCH_01.jpg)
 
-[https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread](https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread "https://www.tribetokes.com/collections/home-page-collection-keybox-flip-battery/products/starter-vape-kit-set-adjustable-voltage-pen-battery-510-thread")
+[https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty](https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty "https://www.cbdizzle.com/collections/cbd-beauty-products/products/cbd-infused-eye-cream-cannablisbykymb-beauty") 
 
 **WHY WE LOVE IT** 
 
-Wait no longer! Our classy and sophisticated all white vape pen is here, and ready to blow a customized cloud just for you. This sleek pen lets you choose your own adventure with an adjustable voltage infinity wheel on the bottom. The beautiful magnet box packaging also provides free, stylish storage. Did we mention - this thing is like the Kindle of weed, you charge it once and it lasts forever. 
+Introducing the debut product of Cannablis By KymB, a Beauty Line created by cannabis influencer and High Times CBD Judge Kym Byrnes. This half ounce jar contains all natural, nourishing ingredients - everything you'd want in an eye cream, with CBD added to reduce inflammation and puffiness. 
 
- 
+**KEY INGREDIENTS**  
 
- 
+Shea Butter, Cocoa Butter, Hemp, Arnica and Birch Extracts, Aloe Vera, Avocado Oil, Sunflower Seed Oil, Bees Wax, Hemp-derived Cannabidiol  
+
+_Other Ingredients:_ Ethyl Macadamiate, Certearyl Alcohol, Glyceryl Stearate, Glycerin, Phenoxyethanol, Propanediol, Potassium Sorbate. 
+
+**DIRECTIONS** 
+
+Apply a pea-sized amount to each eye, dabbing small dots under and around your eyes and along the brow bone. To avoid pulling the skin gently pat the cream from the inner corner to the outer corner until it's absorbed. Wait a couple of minutes before applying sunscreen or makeup.  
+
+**SIZE** 
+
+0\.5 oz (14 g) 
+
+_Caution:_ For external use only. Avoid contact with eyes and mucous membranes. Do not apply to broken skin or open wounds. Stop use if condition worsens or skin irritation occurs. If pregnant or breastfeeding, consult with a health professional before use. 
