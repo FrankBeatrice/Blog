@@ -10,21 +10,30 @@ title = "CBDizzle"
 type = "post"
 
 +++
+CBDizzle - Your Plug For CBD 
 
-![](/uploads/badgirlgoodhealth.PNG)
+We all now know that CBD is good for you. Like, really really good for you. Which is why so many amazing brands and uses are popping up - CBD tinctures, vapes, food, drinks, beauty products - even CBD for your puppy. 
 
-**Bad Girl Good Health** 
+We're here to curate only the BEST products on the market, with the scoop on why they're awesome, and some great discounts + specials to try them out. 
 
-**With over twenty years in the fitness industry, you can catch Kym living her best life and helping others to do the same as a Pilates instructor at Equinox! Offering Pilates Power, Monday mornings at Equinox Gym.** 
+![](/uploads/cbdizzlePug.jpg)
 
-**Kym is also Workout Street Fashion Ambassador for lululemon.**  
+[https://www.cbdizzle.com/](https://www.cbdizzle.com/ "https://www.cbdizzle.com/") 
 
-**Mindful, fit and lit!** 
+ 
 
-[https://www.equinox.com/groupfitness/7125618](https://www.equinox.com/groupfitness/7125618 "https://www.equinox.com/groupfitness/7125618") 
+**_Featured Item_** 
 
-**You can follow Kym’s fitness journey on Instagram @badgirlgoodhealth** 
+![](/uploads/NatXtract_Gummies_.jpg)
 
-**Check out lululemon** 
+[ttps://www.cbdizzle.com/products/naturalxtract-250mg-cbd-gummies](https://www.cbdizzle.com/products/naturalxtract-250mg-cbd-gummies) 
 
-[https://shop.lululemon.com/?CID=Google_All_PPC%2BBrand_US&gclid=CjwKCAiA5qTfBRAoEiwAwQy-6bHgOVpA3o_IZGC4fqaeYJ3W-F5RuyhWXW4fGHfETJ4BCszMFiCWQxoCzyEQAvD_BwE&gclsrc=aw.ds](https://www.equinox.com/groupfitness/7125618 "https://www.equinox.com/groupfitness/7125618")
+Each organic CBD gummy contains 25mg of naturally occurring 99.7% CO2 extracted cannabidiol isolate, THC free.  
+
+**Why We Love It:** These gummies were created with flexible dosing in mind - with 25 MG per gummy, you can either micro dose with 1 or partake in a heavy cannabinoid regimen, without having to overthink it. If you just take the standard 25MG dose, this little bag has 10 doses or a week and a half of daily gummies - take your vitamins, kids! 
+
+Other great brands you'll find...
+
+![](/uploads/7_Point_Logo_A_160x160@2x.png)![](/uploads/flower_power_logo_160x160@2x.png)![](/uploads/Brand-Guide_Natural-Xtract_160x160@2x.png)![](/uploads/CannaBLISWKymB_Logo_160x160@2x-1.jpg)![](/uploads/health-smart-cbd-logo-v2_160x160@2x.png)![](/uploads/High_Falls_Logo_Wide_TM_small_160x160@2x.png)![](/uploads/HWY_2_160x160@2x.gif)![](/uploads/poppednyc.png)![](/uploads/Soul_Addict_160x160@2x.png)![](/uploads/CannaCream_Logo_copy_160x160@2x.png)![](/uploads/Terp_Nation_Logo_160x160@2x.png)![](/uploads/tribetokeslogomini.png)
+
+At CBDizzle, you will find an assortment of top quality CBD products for you and your family, including your furry members, too! Infused gummies, tinctures, lotions, vape cartridges and more! Be sure to check out all they have to offer! 
