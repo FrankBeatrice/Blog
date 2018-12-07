@@ -356,6 +356,16 @@ LEVEL 3. MOBILE ANIMATION STYLES
   font:14px Helvetica,Arial,sans-serif; 
 }
 
+.site-header-content #breadcrumbs {
+  background: rgba(255,255,255, 0.001) !important;
+  color: black;    
+  font-style: bold;
+}
+
+.site-header-content #breadcrumbs a {
+  color: black !important;
+}
+
 #breadcrumbs {
   background: black;
   color: white;

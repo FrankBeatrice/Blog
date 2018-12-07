@@ -5,7 +5,9 @@
         <img class="site-logo" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}" />
       {{else}} {{ .Site.Params.title }} {{end}} </h1>
         <h2 class="site-description">{{ .Site.Params.subtitle }} </h2>
+        {{ partial "breadcrumbs" . }}
     </div>
+    
     <nav class="site-nav">
       <div class="site-nav-right">
         {{ if .Site.Params.RSSLink}}
