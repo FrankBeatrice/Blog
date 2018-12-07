@@ -357,8 +357,17 @@ LEVEL 3. MOBILE ANIMATION STYLES
 }
 
 #breadcrumbs {
-  background: #fff;
-  color: black;
+  background: black;
+  color: white;
   text-align: center;
   z-index: 10;
+  width: 100%;
+}
+
+#breadcrumbs a {
+  color: white !important;
+}
+
+.floating-active {
+  flex-flow: row wrap !important;
 }
