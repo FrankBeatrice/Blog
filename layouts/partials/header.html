@@ -5,7 +5,9 @@
         <img class="site-logo" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}" />
       {{else}} {{ .Site.Params.title }} {{end}} </h1>
         <h2 class="site-description">{{ .Site.Params.subtitle }} </h2>
-        {{ partial "breadcrumbs" . }}
+        {{ if ne .URL "/"}}
+          {{ partial "breadcrumbs" . }}
+        {{ end }}
     </div>
     
     <nav class="site-nav">

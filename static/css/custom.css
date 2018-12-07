@@ -358,7 +358,7 @@ LEVEL 3. MOBILE ANIMATION STYLES
 
 .site-header-content #breadcrumbs {
   background: rgba(255,255,255, 0.001) !important;
-  color: black;    
+  color: black !important;    
   font-style: bold;
 }
 
@@ -367,15 +367,15 @@ LEVEL 3. MOBILE ANIMATION STYLES
 }
 
 #breadcrumbs {
-  background: black;
-  color: white;
+  background: white;
+  color: #01FB2F !important;
   text-align: center;
   z-index: 10;
   width: 100%;
 }
 
 #breadcrumbs a {
-  color: white !important;
+  color: #01FB2F !important;
 }
 
 .floating-active {
