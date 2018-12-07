@@ -1,10 +1,10 @@
 {{ $.Scratch.Add "path" "/" }}
 <div id="breadcrumbs">
   <a href="/">Home</a>
-  {{ range $index, $element := split .URL "/" }}
+  {{ range $index, $element := split . URL "/" }}
     {{ $.Scratch.Add "path" $element }}
       {{ if ne $element "" }}
-      /<a href='/{{ $.Scratch.Get "path" }}'>{{ humanize (replace . "posts" "blog") }}</a>
+      /<a href='{{ $.Scratch.Get "path" }}'>{{ humanize (replace . "posts" "blog") }}</a>
       {{ $.Scratch.Add "path" "/" }}
       {{ end }}
   {{ end }}
