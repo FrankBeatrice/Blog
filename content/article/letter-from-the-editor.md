@@ -10,22 +10,14 @@ title = "Letter from the editor"
 type = "post"
 
 +++
-![](/uploads/womengrowlogo.jpg)
+**High!**  
 
-Women Grow connects, educates, and empowers diverse leaders in all segments of the cannabis industry. Together, we’ll start over 1,000 women-owned businesses in the marijuana industry. Founded in 2014, Women Grow is now the largest national network of cannabis professionals with [Monthly Events](http://womengrow.com/events/) for women & men across the US & Canada. Our popular [Speakers Bureau](http://womengrow.com/speaker-bureau/) ensures diversity at industry events and in media coverage. And no matter where you’re located, you can access our [Video Education](http://womengrow.com/video-education/) series. We model corporate responsibility by fulfilling a social mission in a for-profit structure. But supporting women goes far beyond altruism! Women make 80% of healthcare decisions and even consume more alcohol by volume than men. Female consumers will dominate cannabis purchasing in the same way they already control 85% of consumer spending. The inclusive teams creating cannabis products & services that women love will rise to the top as the end of cannabis prohibition occurs on a national scale. 
+Welcome to Cannabis with KymB! I’m Lacey, your editor and chief and I am so glad you are here to join us in this movement! Our goal is to keep you posted on all things KymB and Cannabis related for the east coast! I’m so excited to bring you information on all the exciting things happening in the cannabis movement, especially with legalization on the horizon in so many places, my hope is to help bring you the information that you need to advocate for and educate yourself and others while also working towards breaking the stigma attached to cannabis and those that use it, whether it be medicinally or recreationally.  
 
-![](/uploads/WomenGrowSocial.png)
+![](/uploads/IMG_0091.JPG)
 
-[https://womengrow.com/](https://womengrow.com/ "https://womengrow.com/") 
+I’m a cannabis patient from New Jersey. I have used cannabis to improve the quality of my life, by reducing the pharmaceuticals I need to treat and manage my chronic health conditions.  Aside from my work with Cannabis with KymB, I’m also a mom, independent product reviewer and cannabis writer. I like trying new cannabis products and promoting the products use and love, while sharing my cannabis journey with others. When I can, I like to check out local cannabis events and advocate the use of cannabis. I enjoy spending time with my son and boyfriend in nature or just around the house. Check me out on Instagram @lacey_project and on Facebook LaceyProject420. I’ve been published by Honeysuckle Magazine and Cannacoop. I believe in the healing power of cannabis and the many uses the plant can serve medicinally and as a textile. I hope to be a part of the change I wish to see in the world, by changing the stereotypical face of cannabis users while shattering the stigma attached to cannabis use, especially by parents. Cannabis has changed my life and I’d like to see it more acceptable and accessible for all, improving the quality of life for all. 
 
-Use coupon code: KymB  
+Stay lifted!
 
-And save $5 on you ticket to the next event. 
-
-Educate. Impower. Inspire.  
-
-Being a part of Women Grow is an excellent way to support women in the cannabis industry. Women supporting women while helping to educate and break the stigma of cannabis.  Events are engaging, educational, fun, inspirational and a safe place for networking and growth.  
-
-When you join, you’ll get to attend monthly meetings that allow you to hear from the leading professionals in the cannabis industry! Can’t get to the meetings, but still want in? They have a blog loaded with lots of useful information and video seminars, too! 
-
-With legalization around the corner, the time is now! Get the support and information you need to succeed in the cannabis industry. 
+Lj
