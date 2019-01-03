@@ -1,6 +1,6 @@
 +++
-author = "Kym_B"
-authorImage = "uploads/chrisstayte_profilepic.jpg"
+author = "Lacey_Jaye"
+authorImage = "/uploads/IMG_0091.JPG"
 categories = "Test"
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
