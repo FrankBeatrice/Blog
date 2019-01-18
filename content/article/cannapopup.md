@@ -4,7 +4,6 @@ authorImage = "/uploads/Holli-Robert-Backyard-party-1.jpg"
 categories = ["Cannabis", "CannaPopUp", "CBD", "Cannapreneurs", "Cannabidiol", "CannaBusiness", "Education"]
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
-draft = true
 share = true
 title = "CannaPop-Up"
 type = "post"
