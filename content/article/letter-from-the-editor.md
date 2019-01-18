@@ -4,7 +4,6 @@ authorImage = "/uploads/IMG_0091.JPG"
 categories = ["Cannabis", "High", "CBD", "Cannaparenting", "Cannaproscoop", "KymB"]
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
-draft = true
 share = true
 title = "Letter from the editor"
 type = "post"
