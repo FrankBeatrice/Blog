@@ -4,7 +4,6 @@ authorImage = "/uploads/IMG_9022.jpg"
 categories = ["CBD", "Health and beauty", "NYC", "High", "CannaBusiness", "Cannabis"]
 comments = true
 date = "2018-08-17T13:52:07.411+00:00"
-draft = true
 share = true
 title = "Tribe Tokes"
 type = "post"
